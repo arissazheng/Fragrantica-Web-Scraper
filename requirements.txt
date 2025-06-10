@@ -78,3 +78,6 @@ Werkzeug==1.0.1
 wincertstore==0.2
 wrapt==1.12.1
 zipp==3.4.0
+selenium==4.15.2
+splinter==0.20.0
+webdriver-manager==4.0.1
